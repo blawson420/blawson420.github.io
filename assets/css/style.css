@@ -18,12 +18,12 @@ body {
 }
 
 a {
-  color: #4154f1;
+  color: #0052AB;
   text-decoration: none;
 }
 
 a:hover {
-  color: #717ff5;
+  color: #007AFF;
   text-decoration: none;
 }
 
@@ -247,7 +247,7 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #4154f1;
+  color: #007AFF;
 }
 
 .navbar .getstarted,
@@ -299,7 +299,7 @@ section {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #4154f1;
+  color: #007AFF;
 }
 
 .navbar .dropdown:hover>ul {
