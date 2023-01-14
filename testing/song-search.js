@@ -13,7 +13,7 @@ $.getJSON('songs.json', function(data) {
             var songAlbum = $('<p>').text(song.album);
             var songCover = $('<img>').attr('src', song.album_cover_url);
             var songDate = $('<p>').text(song.release_date);
-            
+
             songDiv.append(songTitle);
             songDiv.append(songArtist);
             songDiv.append(songAlbum);
@@ -24,7 +24,6 @@ $.getJSON('songs.json', function(data) {
     }else{
         resultsContainer.append("<p>No Results Found</p>");
     }
-
   });
   
   $(document).ready(function(){
@@ -34,4 +33,14 @@ $.getJSON('songs.json', function(data) {
       searchSongs(searchInput);
     });
   });
+  
+  function searchSongs(searchInput){
+    // code to filter and search the songs
+    $.getJSON('songs.json', function(data) {
+    var searchResults = data.filter(function(song) {
+      return song.title.toLowerCase().indexOf(searchInput.toLowerCase()) !== -1;
+    });
+    // code to display searchResults in a well-formatted manner
+  });
+  }
   
