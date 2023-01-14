@@ -1,0 +1,80 @@
+[
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "album_cover_url": "https://picsum.photos/200",
+      "release_date": "2017-01-06",
+      "album": "Divide"
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "album_cover_url": "https://picsum.photos/200",
+      "release_date": "2014-11-10",
+      "album": "Uptown Special"
+    },
+    {
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "album_cover_url": "https://picsum.photos/200",
+      "release_date": "2014-11-10",
+      "album": "x"
+    },
+    {
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "album_cover_url": "https://picsum.photos/200",
+      "release_date": "2014-11-10",
+      "album": "1989"
+    },
+    {
+      "title": "See You Again",
+      "artist": "Wiz Khalifa ft. Charlie Puth",
+      "album_cover_url": "https://picsum.photos/200",
+      "release_date": "2015-04-03",
+      "album": "Furious 7"
+    },
+    {
+      "title": "Love Yourself",
+      "artist": "Justin Bieber",
+      "album_cover_url": "https://picsum.photos/200",
+      "release_date": "2015-10-16",
+      "album": "Purpose"
+    },
+    {
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "album_cover_url": "https://picsum.photos/200",
+      "release_date": "2015-10-22",
+      "album": "Purpose"
+    },
+    {
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "album_cover_url": "https://picsum.photos/200",
+      "release_date": "2014-11-10",
+      "album": "V"
+    },
+    {
+      "title": "Hello",
+      "artist": "Adele",
+      "album_cover_url": "https://picsum.photos/200",
+      "release_date": "2015-10-23",
+      "album": "25"
+    },
+    {
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "album_cover_url": "https://picsum.photos/200",
+      "release_date": "2013-06-03",
+      "album": "Native"
+    },
+    {
+      "title": "Stay With Me",
+      "artist": "Sam Smith",
+      "album_cover_url": "https://picsum.photos/200", 
+      "release_date": "2014-11-10",
+      "album": "In the Lonely Hour"
+    }
+  ]
+  
