@@ -27,3 +27,11 @@ $.getJSON('songs.json', function(data) {
 
   });
   
+  $(document).ready(function(){
+    $('#search-button').click(function(){
+      var searchInput = $('#search-input').val();
+      // call the function for search the song
+      searchSongs(searchInput);
+    });
+  });
+  
