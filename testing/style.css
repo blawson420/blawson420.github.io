@@ -25,7 +25,7 @@ body {
     border: 1px solid #ccc;
   }
   
-  button[type="submit"] {
+  button[type="button"] {
     background-color: #4CAF50;
     color: white;
     padding: 12px 20px;
